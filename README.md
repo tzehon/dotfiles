@@ -11,7 +11,6 @@ Personal dotfiles for macOS (Apple Silicon).
 - [oh-my-zsh](https://ohmyz.sh/)
 - [autojump](https://github.com/wting/autojump) - `brew install autojump`
 - [jenv](https://www.jenv.be/) - `brew install jenv`
-- [miniconda3](https://docs.conda.io/en/latest/miniconda.html)
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
 
 ## Installation
